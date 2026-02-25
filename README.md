@@ -1,5 +1,6 @@
 ## Hi there 👋
-My name is Jacobi, and I am currently a data science major at St. Lawrence University
+My name is Jacobi, and I am currently a data science major at St. Lawrence University.
+
 I enjoy coding, working with data, statistics, and all forms of quantitative topics
 
 Currently, I'm building my skills in R, Python, and Java, as well as working as a mentor in our quantitative resource center
